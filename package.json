@@ -1,0 +1,28 @@
+{
+  "name": "chad_cypress_boilerplate",
+  "version": "1.0.0",
+  "description": "Simple Cypress Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadsunvice/chad_cypress_boilerplate.git"
+  },
+  "keywords": [
+    "cypress",
+    "boilerplate",
+    "automation"
+  ],
+  "author": "chadsunvice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadsunvice/chad_cypress_boilerplate/issues"
+  },
+  "homepage": "https://github.com/chadsunvice/chad_cypress_boilerplate#readme",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
+}
